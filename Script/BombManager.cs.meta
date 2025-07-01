@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 728d6ab899336e34f90339ee02ee63bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Wood: {fileID: 8444184616003461795, guid: 9a6240bed99acdd4a94121e03817f4ef, type: 3}
+  - Stone: {fileID: 4773959979077258226, guid: 01658ae0bdc7c084397d5b1d77d1b8ab, type: 3}
+  - Shell: {instanceID: 0}
+  - Slime: {instanceID: 0}
+  - Meat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
